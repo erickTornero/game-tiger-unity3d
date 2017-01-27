@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TigerWalk.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SkeletonWalk.cs" Line="34" Column="4" />
+      <File FileName="Assets\Scripts\CharacterControler.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\CamFollow.cs" Line="26" Column="98" />
+      <File FileName="Assets\Scripts\ShotHit.cs" Line="4" Column="21" />
+      <File FileName="Assets\Scripts\TigerWalk.cs" Line="6" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
