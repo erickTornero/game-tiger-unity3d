@@ -134,5 +134,6 @@ bin/* text eol=lf
 *.pdf       binary
 *.bz2       binary
 *.dll       binary
+*.asset       binary
 # Excel
 *.xlsx       binary
